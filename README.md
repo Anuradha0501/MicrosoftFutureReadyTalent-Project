@@ -24,3 +24,18 @@ Core Idea of Project is to build an sample E-Commerce Website for a company with
 ### Primary Azure Technology :
 Azure Bot Service, Static Web Apps, Web Apps
 
+
+### Screenshots
+
+![image](https://user-images.githubusercontent.com/71958796/183644191-73ab7f38-32d8-4462-8bfc-8e63807e8782.png)
+
+![image](https://user-images.githubusercontent.com/71958796/183644376-67eb239f-9286-4cf4-a9d2-6f9c0a86ed6c.png)
+
+![image](https://user-images.githubusercontent.com/71958796/183644229-d2ec1cb6-8c1d-4fb7-bfe4-854c59a66b72.png)
+
+![image](https://user-images.githubusercontent.com/71958796/183644287-fc78bcda-27c8-4f32-aa84-05371b664574.png)
+
+![image](https://user-images.githubusercontent.com/71958796/183644325-59eb5aa9-c20a-4c69-a0af-5e0b8c2fec62.png)
+
+
+
